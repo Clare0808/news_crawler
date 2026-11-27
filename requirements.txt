@@ -1,0 +1,10 @@
+# 爬蟲
+requests
+beautifulsoup4
+curl_cffi
+orjson
+# 清洗
+pandas
+tabulate
+# 測試
+pytest
